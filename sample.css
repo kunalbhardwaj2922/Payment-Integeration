@@ -1,0 +1,64 @@
+.navbar {
+    font-family: cursive;
+}
+
+#main {
+    padding-top: 80px;
+    background-color: #ffffff;
+}
+
+#section {
+    margin-top: 50px;
+}
+
+#section2 {
+    margin-top: 40px;
+}
+
+#section3 {
+    margin-top: 80px;
+}
+
+.container h2 {
+    text-align: center;
+}
+
+.thumbnail h3 {
+    font-family: cursive;
+}
+
+.row {
+    margin-top: 100px;
+}
+
+.res {
+    margin-top: 30px;
+}
+
+.col-md-3:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
+.counter-section {
+    margin: 10% auto;
+    color: black;
+}
+
+.icon-box {
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 20px auto;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(36, 30, 30);
+    font-family: cursive;
+    color: white;
+    text-align: center;
+}

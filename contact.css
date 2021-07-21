@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    font-family: cursive;
+}
+
+.nav li a {
+    font-family: cursive;
+}
+
+section {
+    border: 1px solid black;
+    height: 100vh;
+}
+
+.container {
+    margin-left: 30%;
+    margin-top: 80px;
+}
+
+.col-md-6 h2 {
+    text-align: center;
+    font-family: cursive;
+}
+
+.btn {
+    margin-left: 38%;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 10px;
+    font-family: cursive;
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    font-family: cursive;
+}
